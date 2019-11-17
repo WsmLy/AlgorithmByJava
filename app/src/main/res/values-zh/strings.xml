@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">算法</string>
+    <string name="search_algorithm">查找算法</string>
+    <string name="search_linear">线性查找</string>
+    <string name="search_binary">二分查找</string>
+    <string name="search_input">请输入查找的数字</string>
+    <string name="run">运行</string>
+</resources>
